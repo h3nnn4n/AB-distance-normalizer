@@ -8,5 +8,5 @@ Run with `python3 main.py abmodel.csv pdbcode`
 The script downloads the native structure from pdb if necessary.
 
 ## LICENSE
-See the LICENSE file
+See the [LICENSE](LICENSE) file
 
